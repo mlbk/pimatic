@@ -19,7 +19,8 @@
     "plugins.md",
     "LICENSE"
   ],
-  "version": "0.8.71",
+  "version": "0.8.73",
+  "license": "GPL-2.0",
   "homepage": "http://github.com/pimatic/pimatic",
   "repository": {
     "type": "git",
@@ -38,6 +39,7 @@
     "cjson": "~0.3.0",
     "coffee-script": "1.8.0",
     "colors": "~0.6.2",
+    "connect-timeout": "^1.6.2",
     "convict": "0.4.*",
     "cross-spawn": "^0.2.3",
     "daemon": "1.1.0",
